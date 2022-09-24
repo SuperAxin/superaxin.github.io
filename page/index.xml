@@ -8,14 +8,12 @@
     <managingEditor>youremail@domain.com (超人阿信)</managingEditor>
     <webMaster>youremail@domain.com (超人阿信)</webMaster><atom:link href="https://superaxin.github.io/page/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>About me</title>
+      <title>關於我</title>
       <link>https://superaxin.github.io/page/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>youremail@domain.com (超人阿信)</author>
       <guid>https://superaxin.github.io/page/about/</guid>
-      <description>My name is Inigo Montoya. I have the following qualities:
-I rock a great mustache I&amp;rsquo;m extremely loyal to my family What else do you need?
-my history To be honest, I&amp;rsquo;m having some trouble remembering right now, so why don&amp;rsquo;t you just watch my movie and it will answer all your questions.</description>
+      <description>我的名字是超人阿信，致力於研究證券分析、量化投資、機器學習，並撰寫文章與大家分享我的想法，歡迎大家追蹤，有問題也可以跟我討論，謝謝大家。</description>
     </item>
     
   </channel>
