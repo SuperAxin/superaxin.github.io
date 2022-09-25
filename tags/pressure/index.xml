@@ -7,7 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>youremail@domain.com (超人阿信)</managingEditor>
     <webMaster>youremail@domain.com (超人阿信)</webMaster>
-    <lastBuildDate>Sun, 11 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://superaxin.github.io/tags/pressure/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 25 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://superaxin.github.io/tags/pressure/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>凱利方程(Kelly CriterionAxin)</title>
+      <link>https://superaxin.github.io/post/2022_09_25_kelly_criterionaxin/</link>
+      <pubDate>Sun, 25 Sep 2022 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (超人阿信)</author>
+      <guid>https://superaxin.github.io/post/2022_09_25_kelly_criterionaxin/</guid>
+      <description>&lt;p&gt;凱利方程為一種「投注策略」，是一種根據機率透過數學公式尋找最佳投注比，來最大化資產幾何成長率的策略。但需注意的是，不同的機率分配下有不同的凱利方程，所以建議對項目有一定了解在使用，本篇文章將以二項分配來進行說明。&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>內源性大麻素 (Endocannabinoids)</title>
       <link>https://superaxin.github.io/post/2022_09_11_aea/</link>
