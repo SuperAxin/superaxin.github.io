@@ -1,22 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on 超人阿信</title>
-    <link>https://superaxin.github.io/post/</link>
-    <description>Recent content in Posts on 超人阿信</description>
+    <title>math on 超人阿信</title>
+    <link>https://superaxin.github.io/tags/math/</link>
+    <description>Recent content in math on 超人阿信</description>
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>youremail@domain.com (超人阿信)</managingEditor>
     <webMaster>youremail@domain.com (超人阿信)</webMaster>
-    <lastBuildDate>Sun, 11 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://superaxin.github.io/post/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>內源性大麻素 (Endocannabinoids)</title>
-      <link>https://superaxin.github.io/post/2022_09_11_aea/</link>
-      <pubDate>Sun, 11 Sep 2022 00:00:00 +0000</pubDate>
-      <author>youremail@domain.com (超人阿信)</author>
-      <guid>https://superaxin.github.io/post/2022_09_11_aea/</guid>
-      <description>&lt;p&gt;內源性大麻素(Endocannabinoid)是一種由人體自行產生的大麻素，與THC、CBD這種從植物萃取的大麻素不同，因為是人體自行產生的所以不會有上癮的問題，雖然分子結構不太相同，但卻都能夠跟人腦中的CB1及CB2受體結合，這代表它們也能帶來與植物型大麻素相同的效果。&lt;/p&gt;</description>
-    </item>
-    
+    <lastBuildDate>Sun, 05 Mar 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://superaxin.github.io/tags/math/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Math Sample</title>
       <link>https://superaxin.github.io/post/2017-03-05-math-sample/</link>
