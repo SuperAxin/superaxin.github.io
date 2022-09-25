@@ -26,18 +26,5 @@
       <description>&lt;p&gt;內源性大麻素(Endocannabinoid)是一種由人體自行產生的大麻素，與THC、CBD這種從植物萃取的大麻素不同，因為是人體自行產生的所以不會有上癮的問題，雖然分子結構不太相同，但卻都能夠跟人腦中的CB1及CB2受體結合，這代表它們也能帶來與植物型大麻素相同的效果。&lt;/p&gt;</description>
     </item>
     
-    <item>
-      <title>Math Sample</title>
-      <link>https://superaxin.github.io/post/2017-03-05-math-sample/</link>
-      <pubDate>Sun, 05 Mar 2017 00:00:00 +0000</pubDate>
-      <author>youremail@domain.com (超人阿信)</author>
-      <guid>https://superaxin.github.io/post/2017-03-05-math-sample/</guid>
-      <description>&lt;p&gt;KaTeX can be used to generate complex math formulas server-side.&lt;/p&gt;
-&lt;p&gt;$$
-\phi = \frac{(1+\sqrt{5})}{2} = 1.6180339887\cdots
-$$&lt;/p&gt;
-&lt;p&gt;Additional details can be found on &lt;a href=&#34;https://github.com/Khan/KaTeX&#34;&gt;GitHub&lt;/a&gt; or on the &lt;a href=&#34;http://tiddlywiki.com/plugins/tiddlywiki/katex/&#34;&gt;Wiki&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    
   </channel>
 </rss>
